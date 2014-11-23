@@ -129,8 +129,8 @@ The complete list of variables of each feature vector is available in 'features.
 
 #### The SecondTidy file contains the following attributes
 
-Subject
-Activity
+Subject   (subjectnumber, 1-30 volunteers) 
+Activity  (activity name)
 Mean_TimeBodyAccMean_X
 Mean_TimeBodyAccMean_Y
 Mean_TimeBodyAccMean_Z
