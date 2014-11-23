@@ -16,7 +16,7 @@ Number of Web Hits: 	   128754
 ### Source:
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto. 
 Smartlab - Non Linear Complex Systems Laboratory 
-DITEN - Universit√  degli Studi di Genova, Genoa I-16145, Italy. 
+DITEN - Universit√É  degli Studi di Genova, Genoa I-16145, Italy. 
 activityrecognition '@' smartlab.ws 
 www.smartlab.ws 
 
@@ -129,7 +129,7 @@ The complete list of variables of each feature vector is available in 'features.
 
 #### The SecondTidy file contains the following attributes
 
-Subject   (subjectnumber, 1-30 volunteers) 
+Subject   (subjectnumber, 1-30 volunteers)
 Activity  (activity name)
 Mean_TimeBodyAccMean_X
 Mean_TimeBodyAccMean_Y
