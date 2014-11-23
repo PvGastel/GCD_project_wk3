@@ -127,6 +127,16 @@ The complete list of variables of each feature vector is available in 'features.
 
 ### Contents SecondTidy file for project assignment GCD week 3
 
+The R script called run_analysis.R did the following. 
+  1 Merges the training and the test sets to create one data set.
+  2 Extracts only the measurements on the mean and standard deviation for each measurement. 
+  3 Uses descriptive activity names to name the activities in the data set
+  4 Appropriately labels the data set with descriptive variable names. 
+  5 From the data set in step 4, created a second, independent tidy data set with the average of each variable for 
+    each activity and each subject.
+
+For further explanation see comments in the R-script
+
 #### The SecondTidy file contains the following attributes
 
 Subject   (subjectnumber, 1-30 volunteers)
