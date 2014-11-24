@@ -94,4 +94,4 @@ SecondTidy <- ddply(CleanTidySet, .(Subject, Activity), GroupedColMeans)
 names(SecondTidy)[-c(1,2)] <- paste0("Mean_", names(SecondTidy)[-c(1,2)])
 
 # Write file
-write.table(SecondTidy, "SecondTidy.txt", sep="\t", row.names = FALSE)
+write.table(SecondTidy, "SecondTidy.txt", row.names = FALSE)
